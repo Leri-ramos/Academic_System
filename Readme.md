@@ -1,4 +1,6 @@
-# Documentação,Planejamento e Cronograma de entrega do projeto.
+#Projeto para fins academicos. 
 
 
-Projeto para fins academicos. 
+Sistema acadêmico feito com Orientação a Objetos.
+
+
