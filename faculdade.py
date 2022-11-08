@@ -1,4 +1,4 @@
-# Importação para usar na Classe Pai
+
 from abc import ABC
 
 
